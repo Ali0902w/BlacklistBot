@@ -1,6 +1,6 @@
 {
     "discordbotsettings":{
-        "prefix":"",
+        "prefix":"+",
         "token":""
     },
     "dbSettings":{
